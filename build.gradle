@@ -46,7 +46,7 @@ processResources {
 buildscript {
     ext{
         kotlin_version = '1.4.0'
-        spigot_version = '1.15.2-R0.1-SNAPSHOT'
+        spigot_version = '1.16.1-R0.1-SNAPSHOT'
     }
     repositories {
         mavenCentral()
